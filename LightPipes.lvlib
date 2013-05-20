@@ -38,6 +38,7 @@
 		<Item Name="zern.vi" Type="VI" URL="../VIs/zern.vi"/>
 	</Item>
 	<Item Name="Tools" Type="Folder">
+		<Item Name="build matrix.vi" Type="VI" URL="../build matrix.vi"/>
 		<Item Name="crop images.vi" Type="VI" URL="../crop images.vi"/>
 		<Item Name="file to matrix.vi" Type="VI" URL="../file to matrix.vi"/>
 		<Item Name="get_path.vi" Type="VI" URL="../get_path.vi"/>
@@ -45,8 +46,8 @@
 		<Item Name="matrix_filter - forvard.vi" Type="VI" URL="../matrix_filter - forvard.vi"/>
 		<Item Name="Phase to Matrix.vi" Type="VI" URL="../Phase to Matrix.vi"/>
 	</Item>
-	<Item Name="Gergberg Color.vi" Type="VI" URL="../Gergberg Color.vi"/>
 	<Item Name="Gergberg Image Manipulation.vi" Type="VI" URL="../Gergberg Image Manipulation.vi"/>
+	<Item Name="Gergberg.vi" Type="VI" URL="../Gergberg.vi"/>
 	<Item Name="IMAQ noise remove.vi" Type="VI" URL="../IMAQ noise remove.vi"/>
 	<Item Name="Lightpipes.dll" Type="Document" URL="../Lightpipes.dll"/>
 </Library>
